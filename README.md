@@ -1,61 +1,79 @@
-Hi, I'm Sevde 👋  
-Computer Engineer
+# Merhaba, ben Sevde 👋  
+### Bilgisayar Mühendisi
 
-💻 About Me
-I graduated from Düzce University Computer Engineering Department in 2025.  
-I develop full-stack solutions using Python, FastAPI, and React.  
-I have experience in Artificial Intelligence and Natural Language Processing, especially working with Retrieval-Augmented Generation (RAG) architectures.  
-I aim to contribute quickly to the industry by producing innovative and high-quality software solutions in a dynamic team environment.
+---
 
-🎓 Education
-- Düzce University – Computer Engineering (2021 – 2025)  
-- Düzce University – Preparatory Program (2020 – 2021)
+## 💻 Hakkımda
+- 2025 yılında **Düzce Üniversitesi Bilgisayar Mühendisliği** bölümünden mezun oldum.
+- Python, FastAPI ve React kullanarak full-stack çözümler geliştiriyorum.
+- Yapay Zeka ve Doğal Dil İşleme (NLP) alanlarında, özellikle **RAG (Retrieval-Augmented Generation)** mimarileri ile çalıştım.
+- Yenilikçi ve kaliteli yazılım çözümleri üreterek dinamik bir ekip ortamına hızlı katkı sağlamayı hedefliyorum.
 
-💼 Experience
-**Aris888 Company – Computer Engineer (Volunteer)**  
-*June 2025 – Present*  
-- Developed a RAG-based question-answering system using corporate documents  
-- Implemented document chunking, embeddings, and vector storage with ChromaDB using Python  
-- Built RESTful APIs with FastAPI to optimize database queries  
-- Actively contributed to team collaboration and code quality, supporting timely project delivery  
+---
 
-**Sakarya Metropolitan Municipality – Intern Computer Engineer**  
-*July 2023 – September 2023*  
-- Worked on managing complex datasets using RESTful API principles  
-- Contributed to delivering data through a user-friendly interface  
+## 🎓 Eğitim
+- **Düzce Üniversitesi** – Bilgisayar Mühendisliği _(2021 – 2025)_  
+- **Düzce Üniversitesi** – Hazırlık Programı _(2020 – 2021)_
 
-🧠 Skills
+---
 
-**Programming Languages**  
-Python, Java  
+## 💼 Deneyim
 
-**Web Development**  
-React, Node.js, JavaScript, FastAPI  
+### Aris888 Company – Bilgisayar Mühendisi (Gönüllü)  
+*Haziran 2025 – Aralık 2025*
+- Kurumsal dokümanlar ile çalışan **RAG tabanlı soru-cevap sistemi** geliştirdim  
+- Document chunking, embedding ve vektör depolama süreçlerini **ChromaDB** kullanarak uyguladım  
+- **FastAPI** ile RESTful API geliştirdim ve performans optimizasyonu yaptım  
+- Kod kalitesi ve takım iş birliğini artırarak projelerin zamanında teslimine katkı sağladım  
+- 🌐 Projeyi canlı olarak incelemek için: https://ai.aris888.io/
 
-**Artificial Intelligence & Machine Learning**  
-- NLP & LLM: RAG Architecture, OpenAI API  
-- Vector Databases: ChromaDB  
+---
 
-**DevOps & Cloud**  
-Docker, Git  
+### Sakarya Büyükşehir Belediyesi – Stajyer Bilgisayar Mühendisi  
+*Temmuz 2023 – Eylül 2023*
+- RESTful API prensipleri ile kompleks veri setlerini yönetme çalışmaları yaptım  
+- Kullanıcı dostu veri ara yüzlerinin sunulmasına katkı sağladım
 
-**Databases**  
-PostgreSQL, Firebase (Firestore, Realtime Database)
+---
 
-🌍 Languages
-- Turkish (Native)  
-- English (Advanced)
+## 🧠 Yetenekler
 
-📜 Certifications
-- Akbank Youth Academy – Cyber Security 101  
+### Programlama Dilleri
+`Python` · `Java`
+
+### Web Geliştirme
+`React` · `Node.js` · `JavaScript` · `FastAPI`
+
+### Yapay Zeka & Makine Öğrenimi
+- NLP & LLM: **RAG Mimarisi**, **OpenAI API**
+- Vektör Veritabanları: **ChromaDB**
+
+### DevOps & Bulut
+`Docker` · `Git`
+
+### Veritabanları
+`PostgreSQL` · `Firebase (Firestore, Realtime Database)`
+
+---
+
+## 🌍 Diller
+- **Türkçe** – Ana Dil  
+- **İngilizce** – İyi Seviye
+
+---
+
+## 📜 Sertifikalar
+- Akbank Gençlik Akademisi – Cyber Security 101  
 - Udemy – Introduction to Container Technologies with OpenShift  
-- Udemy – Android Mobile Application Development (Java)  
-- Anbean Kampüs – Defense Industry and Aviation Summit  
+- Udemy – Android Mobil Uygulama Geliştirme (Java)  
+- Anbean Kampüs – Savunma Sanayi ve Havacılık Zirvesi  
 - Turkcell Geleceği Yazanlar – ASP .NET Core MVC  
-- Turkcell Geleceği Yazanlar – Natural Language Processing  
-- Turkcell Geleceği Yazanlar – Applied Machine Learning  
+- Turkcell Geleceği Yazanlar – Doğal Dil İşleme  
+- Turkcell Geleceği Yazanlar – Uygulamalı Makine Öğrenimi  
 
-📫 Contact
-📩 Email: sevdettetik@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/sevde-tetik-442b93273  
-💻 GitHub: https://github.com/Sevdetetik
+---
+
+## 📫 İletişim
+- 📩 **E-posta:** sevdettetik@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sevde-tetik-442b93273  
+- 💻 **GitHub:** https://github.com/Sevdetetik
