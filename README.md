@@ -42,7 +42,7 @@
 `Python` · `Java`
 
 ### Web Geliştirme
-`React` · `Node.js` · `JavaScript` · `FastAPI`
+`React` · `Node.js` · `JavaScript` · `FastAPI` . `Spring Boot`
 
 ### Yapay Zeka & Makine Öğrenimi
 - NLP & LLM: **RAG Mimarisi**, **OpenAI API**
@@ -52,7 +52,7 @@
 `Docker` · `Git`
 
 ### Veritabanları
-`PostgreSQL` · `Firebase (Firestore, Realtime Database)`
+`PostgreSQL` · `MySQL` · `Firebase (Firestore, Realtime Database)`
 
 ---
 
