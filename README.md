@@ -4,10 +4,11 @@
 ---
 
 ## 💻 Hakkımda
-- 2025 yılında **Düzce Üniversitesi Bilgisayar Mühendisliği** bölümünden mezun oldum.
-- Python, FastAPI ve React kullanarak full-stack çözümler geliştiriyorum.
-- Yapay Zeka ve Doğal Dil İşleme (NLP) alanlarında, özellikle **RAG (Retrieval-Augmented Generation)** mimarileri ile çalıştım.
-- Yenilikçi ve kaliteli yazılım çözümleri üreterek dinamik bir ekip ortamına hızlı katkı sağlamayı hedefliyorum.
+- Bilgisayar Mühendisliği mezunu, React ile frontend, FastAPI ile backend geliştirme deneyimine sahip, aynı
+-zamanda ISTQB Foundation Level sertifikalı bir bilgisayar mühendisiyim
+- RESTful API geliştirme, test
+-edilebilir yazılım tasarımı, hata yönetimi ve kalite odaklı geliştirme süreçlerinde aktif rol aldım.
+- Yazılım test süreçleri ve kalite güvencesi alanlarında test bakış açısıyla çalışmaktayım.
 
 ---
 
@@ -63,7 +64,7 @@
 ---
 
 ## 📜 Sertifikalar
-- Akbank Gençlik Akademisi – Cyber Security 101  
+- ISTQB CertificateISTQB Certified Tester – Foundation Level (CTFL)  
 - Udemy – Introduction to Container Technologies with OpenShift  
 - Udemy – Android Mobil Uygulama Geliştirme (Java)  
 - Anbean Kampüs – Savunma Sanayi ve Havacılık Zirvesi  
